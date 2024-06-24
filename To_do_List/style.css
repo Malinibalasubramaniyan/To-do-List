@@ -1,0 +1,30 @@
+.todo{
+    
+max-width: 500px;
+margin: auto;
+padding: 20px;
+background-color: white;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+body{
+    background-color: rgb(43, 49, 49);
+}
+#input-field{
+    
+    box-sizing: border-box;
+    padding: 10px 10px 10px 12px;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+#add:hover{
+   background-color: rgb(44, 151, 212);
+}
+
+
+.list-group-item.completed {
+    text-decoration: line-through;
+    color: grey;
+}
