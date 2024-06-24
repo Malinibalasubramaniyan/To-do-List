@@ -13,6 +13,7 @@ HTML: Structure of the application.
 CSS: Basic styling and layout.
 Bootstrap: For responsive design and styling.
 JavaScript: Core functionality for adding, marking, and removing tasks.
+Screenshots:
 
 ![image](https://github.com/Malinibalasubramaniyan/To-do-List/assets/93629145/3504fc21-7a86-4681-9964-6ce816a775cc)
 
